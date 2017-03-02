@@ -4,6 +4,4 @@ all:
 	pdflatex calendar.tex
 	pdflatex important_places_1.tex
 	pdflatex important_places_2.tex
-
-clean:
-	rm *.log *.pdf *.aux
+	rm *.log *.aux
