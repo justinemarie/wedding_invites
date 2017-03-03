@@ -5,4 +5,5 @@ all:
 	pdflatex important_places_1.tex
 	pdflatex important_places_2.tex
 	pdflatex gifts.tex
+	pdflatex travel.tex
 	rm *.log *.aux
