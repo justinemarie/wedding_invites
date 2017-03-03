@@ -8,4 +8,4 @@ all:
 	pdflatex travel.tex
 	pdflatex title.tex
 	pdflatex to_print.tex
-	rm *.log *.aux
+	rm *.log *.aux *~
